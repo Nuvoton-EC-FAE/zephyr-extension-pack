@@ -1,0 +1,7 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.editorconfig
+*.log
+temp/**
+PUBLISH.md
