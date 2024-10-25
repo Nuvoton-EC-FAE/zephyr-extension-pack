@@ -2,6 +2,16 @@
 
 All notable changes to the "zephyr-extension-pack" extension pack will be documented in this file.
 
+## 0.2.0 - 2024-10-25
+
+- Add extensions
+  - [Git Graph extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+  - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+  - [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
+  - [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+
 ## 0.1.0 - 2024-10-14
 
 - Initial release

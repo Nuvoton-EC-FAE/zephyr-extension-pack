@@ -2,7 +2,7 @@
   "name": "zephyr-extension-pack",
   "displayName": "Zephyr RTOS Extension Pack",
   "description": "Popular Visual Studio Code extensions for Zephyr RTOS Development",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "brookliu888",
   "icon": "icon.png",
   "repository": "https://github.com/Nuvoton-EC-FAE/zephyr-extension-pack",
@@ -12,13 +12,21 @@
   "license": "MIT",
   "keywords": [
       "zephyr-rtos",
-      "zephyrproject-rtos"
+      "zephyrproject-rtos",
+      "zephyr",
+      "Zephyr"
   ],
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
     "marus25.cortex-debug",
-    "ms-vscode.cpptools-extension-pack"
+    "ms-vscode.cpptools-extension-pack",
+    "mhutchie.git-graph",
+    "ms-vscode.cmake-tools",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-vscode.vscode-serial-monitor",
+    "ms-vscode.hexeditor"
   ]
 }
