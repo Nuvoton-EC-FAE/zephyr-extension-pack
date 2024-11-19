@@ -2,7 +2,7 @@
   "name": "zephyr-extension-pack",
   "displayName": "Zephyr RTOS Extension Pack",
   "description": "Popular Visual Studio Code extensions for Zephyr RTOS Development",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "brookliu888",
   "icon": "icon.png",
   "repository": "https://github.com/Nuvoton-EC-FAE/zephyr-extension-pack",
@@ -27,6 +27,9 @@
     "ms-python.python",
     "ms-python.debugpy",
     "ms-vscode.vscode-serial-monitor",
-    "ms-vscode.hexeditor"
+    "ms-vscode.hexeditor",
+    "trond-snekvik.gnu-mapfiles",
+    "trond-snekvik.simple-rst",
+    "lextudio.restructuredtext"
   ]
 }

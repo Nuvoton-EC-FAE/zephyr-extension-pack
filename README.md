@@ -30,6 +30,8 @@ This extension pack includes essential packages required for debugging **Zephyr 
   * Extended CMake support in Visual Studio Code
 * [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
   * Send and receive text from serial ports.
+* [GNU Linker Map files](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.gnu-mapfiles)
+  * Adds syntax highlighting and symbol overview for GNU Linker Map files.
 
 ### Python extension for Visual Studio Code
 
@@ -44,3 +46,7 @@ This extension pack includes essential packages required for debugging **Zephyr 
   * Allows viewing and editing files in a hex editor
 * [Git Graph extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
   * View a Git Graph of your repository, and perform Git actions from the graph.
+* [reStructuredText Syntax highlighting](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst)
+  * This extension provides rich syntax highlighting and non-intrusive section navigation for reStructuredText.
+* [reStructuredText](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
+  * This extension provides rich reStructuredText language support for Visual Studio Code.

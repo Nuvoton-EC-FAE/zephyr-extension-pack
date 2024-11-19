@@ -2,6 +2,13 @@
 
 All notable changes to the "zephyr-extension-pack" extension pack will be documented in this file.
 
+## 0.3.0 - 2024-11-19
+
+- Add extensions
+  - [GNU Linker Map files](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.gnu-mapfiles)
+  - [reStructuredText Syntax highlighting](https://marketplace.visualstudio.com/items?itemName=trond-snekvik.simple-rst)
+  - [reStructuredText](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
+
 ## 0.2.0 - 2024-10-25
 
 - Add extensions
